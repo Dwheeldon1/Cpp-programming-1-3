@@ -1,0 +1,3 @@
+﻿  NumberGuesses.cpp
+C:\Users\Doug\Desktop\CISS\C++\Chapter5\NumberGuesses.cpp(48,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chapter5.vcxproj -> C:\Users\Doug\Desktop\CISS\C++\Chapter5\Debug\Chapter5.exe
