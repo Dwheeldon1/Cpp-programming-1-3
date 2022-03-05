@@ -1,0 +1,5 @@
+﻿  Soccerstats.cpp
+C:\Users\Doug\Desktop\CISS\C++\chapter11\chapter11\Soccerstats.cpp(125,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Doug\Desktop\CISS\C++\chapter11\chapter11\Soccerstats.cpp(136,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Doug\Desktop\CISS\C++\chapter11\chapter11\Soccerstats.cpp(142,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  chapter11.vcxproj -> C:\Users\Doug\Desktop\CISS\C++\chapter11\chapter11\Debug\chapter11.exe
